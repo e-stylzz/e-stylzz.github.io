@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: #FFF;
+    background: #f6f7fd;
 }
 
 a, a:visited {
@@ -32,12 +32,12 @@ nav ul {
 
 nav ul li {
     float: left;
-    border: 1px solid black;
+    border-bottom: 1px solid black;
     border-radius: 7px;
     padding: 5px 8px;
     margin-left: 15px;
 }
 
 nav ul li:hover {
-    border: 2px solid black;
+    border-bottom: 2px solid black;
 }
